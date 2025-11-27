@@ -1,4 +1,5 @@
 outputs/
+config.local.ymal
 *.bak
 *pdf
 *txt

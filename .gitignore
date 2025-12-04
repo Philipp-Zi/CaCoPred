@@ -1,4 +1,6 @@
 outputs/
+output/
+input/
 config.local.ymal
 *.bak
 *pdf
